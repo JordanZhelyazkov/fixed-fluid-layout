@@ -27,3 +27,18 @@ html {
   font-size: 10rem;
   flex-flow: column;
 }
+
+.container {
+  display: flex;
+
+}
+
+.sidebar {
+  width: 280px;
+  max-width: 280px;
+}
+
+.main {
+  width: 80%;
+  margin: 0 auto;
+}
